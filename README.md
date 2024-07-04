@@ -1,7 +1,7 @@
 # Bank management systyem
 The Bank Management System is a Java application using Swing and AWT for graphical user interface components and event handling.
-
-I have built this desktop application using the JAVA Netbeans and tried covering every realtime scenerio that exist while banking.
+ 
+##### "I built this desktop application using Java NetBeans for a bank management system, opting to hardcode components. This approach provided deeper project insight and comprehensive coverage of real-time banking scenarios."
  
 ##  Technologies Used
 #### Java
