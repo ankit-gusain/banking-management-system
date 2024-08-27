@@ -23,8 +23,17 @@ Mini statement
  
 ## Sample Output pages
 
-![Bank Management System](/bank%20management%20system/output-images/1.png)
+![Bank Management System](/bank%20management%20system/output-images/snup1p1.png)
 
+![Bank Management System](/bank%20management%20system/output-images/snup1p2.png)
+
+![Bank Management System](/bank%20management%20system/output-images/snup2.png)
+
+![Bank Management System](/bank%20management%20system/output-images/snup3.png)
+
+![Bank Management System](/bank%20management%20system/output-images/accCreated.png)
+
+![Bank Management System](/bank%20management%20system/output-images/1.png)
 
 ![Bank Management System](/bank%20management%20system/output-images/2.png)
 
