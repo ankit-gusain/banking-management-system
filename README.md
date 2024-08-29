@@ -11,16 +11,13 @@ The Bank Management System is a Java application using Swing and AWT for graphic
 #### MySQL (or any other database)
 
 ## Components 
+#### Login, Signing up a new user, Pin changing, transactions, Balance Enquiry, Cash withdrawl,  Fast cash, Mini statement 
 
-Login,
-Signing up a new user, 
-Pin changing,
-transactions,
-Balance Enquiry,
-Cash withdrawl, 
-Fast cash,
-Mini statement 
- 
+
+
+## Follow the path to track the files and classes responsible for development.
+##### [Banking Management System/src/university/management/system ](https://github.com/ankit-gusain/banking-management-system/tree/main/bank%20management%20system/src)
+
 ## Sample Output pages
 
 ![Bank Management System](/bank%20management%20system/output-images/snup1p1.png)
